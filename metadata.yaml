@@ -1,0 +1,28 @@
+_repo: Sappho-and-her-influence_61505
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Robinson, David M. (David Moore)
+    alias: Robinson, David Moore
+    birthdate: 1880
+    deathdate: 1958
+    gutenberg_agent_id: '51466'
+    url: http://www.gutenberg.org/2009/agents/51466
+    wikipedia: https://en.wikipedia.org/wiki/David_Moore_Robinson
+description: ''
+gutenberg_issued: '2020-02-24'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '61505'
+  lccn: '25001867'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+series_note: Our debt to Greece and Rome
+subjects:
+- !lcsh 'Sappho -- Influence'
+- !lcc 'PA'
+- GITenberg
+title: Sappho and her influence
+url: http://www.gutenberg.org/ebooks/61505
